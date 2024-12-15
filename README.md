@@ -1,7 +1,7 @@
 ### Olá eu sou a Débora.
 
 
-- 🌱 Atualmente estudo Machine Learning
+- 🌱 Especialista em Machine Learning
 - 📫 Contate-me no email: debora.laiber@gmail.com
 - 😄 Pronouns: ela/dela
 
