@@ -1,7 +1,6 @@
 ### Olá eu sou a Débora.
 
-
-- 🌱 Especialista em Machine Learning
+- 🌱 Especialista em Machine Learning e Deep Learning
 - 📫 Contate-me no email: debora.laiber@gmail.com
 - 😄 Pronouns: ela/dela
 
